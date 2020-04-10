@@ -6,3 +6,5 @@ categories: Learning
 ---
 
 <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learning
+<br>
+  <a href = "https://learning.oreilly.com/home/">O'Reilly
