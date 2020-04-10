@@ -1,1 +1,8 @@
-
+---
+layout: post
+title:  "Get-ADGroupMember"
+date:   2020-04-10
+categories: Learning
+---
+{% highlight SQL %}Import-Moduel ActiveDirectory{% endhighlight %}
+{% highlight SQL %}Get-ADGropuMember -Identity "GroupName" | Select Name, SAMAccountName{% endhighlight %}
