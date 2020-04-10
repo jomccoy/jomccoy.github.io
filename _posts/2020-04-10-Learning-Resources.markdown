@@ -5,4 +5,4 @@ date:   2020-04-10
 categories: Learning
 ---
 
-{% highlight SQL %} SELECT * FROM sys.Databases {% endhighlight %}
+<a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learning
