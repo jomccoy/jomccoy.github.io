@@ -4,7 +4,7 @@ title:  "Azure SQL DB Adding Azure AD Users"
 date:   2020-06-05
 categories: Learning
 ---
-{% highlight Powershell %}Import-Module ActiveDirectory{% endhighlight %}
-{% highlight Powershell %}Get-ADGroupMember -Identity "GroupName" | Select Name, SAMAccountName{% endhighlight %}
+1.  Create a new Azure SQL Database and Server
+2.  Go to all resources and find the <b>SQL Server</b>
 
 <a href="https://docs.microsoft.com/en-us/powershell/module/activedirectory/get-adgroupmember?view=winserver2012-ps">Docs
