@@ -9,3 +9,7 @@ categories: Azure SQL
 <img src="/images/SQLSewrver.JPG">
 3. Under settings for the SQL Server, select Active Directory Admin
 <img src="/images/AADAdmin.JPG">
+4. Click Set admin and search for Active Directory Admin user and save.
+5.  Connect to Azure SQL Database with Active Directory Admin account and click new query.
+6. Click new query and run the following command
+create user [sql@jomccoy.onmicrosoft.com] from external provider;
