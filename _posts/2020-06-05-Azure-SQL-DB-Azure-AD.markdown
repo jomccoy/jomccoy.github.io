@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure SQL DB #-Adding Azure AD Users"
+title:  "Azure SQL DB -Adding Azure AD Users"
 date:   2020-06-05
 categories: Azure SQL
 ---
