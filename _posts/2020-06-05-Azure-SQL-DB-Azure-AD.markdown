@@ -6,5 +6,5 @@ categories: Learning
 ---
 1.  Create a new Azure SQL Database and Server
 2.  Go to all resources and find the <b>SQL Server</b>
-
+<img src=images/SQLSewrver.JPG>
 <a href="https://docs.microsoft.com/en-us/powershell/module/activedirectory/get-adgroupmember?view=winserver2012-ps">Docs
