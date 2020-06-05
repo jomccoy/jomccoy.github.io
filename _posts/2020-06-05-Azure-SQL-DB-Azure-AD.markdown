@@ -8,3 +8,4 @@ categories: Azure SQL
 2.  Go to all resources and find the <b>SQL Server</b>
 <img src="/images/SQLSewrver.JPG">
 3. Under settings for the SQL Server, select Active Directory Admin
+<img src="/images/AADAdmin.JPG">
