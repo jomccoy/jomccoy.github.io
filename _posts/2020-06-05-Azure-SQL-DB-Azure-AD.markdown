@@ -12,5 +12,5 @@ categories: Azure SQL
 4. Click Set admin and search for Active Directory Admin user and save.
 5.  Connect to Azure SQL Database with Active Directory Admin account and click new query.
 6. Click new query and run the following command
-{% highlight SQL %}create user [sql@jomccoy.onmicrosoft.com] from external provider;{% endhighlight %}
+{% highlight SQL %}create user [sql@domain.onmicrosoft.com] from external provider;{% endhighlight %}
 
