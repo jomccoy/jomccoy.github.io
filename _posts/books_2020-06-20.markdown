@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Books"
+date:   2020-06-20
+categories: Learning
+---
+
+<a href = "https://learning.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch
+<br>
+  <a href = "https://learning.oreilly.com/library/view/python-for-programmers/9780135231364/">Python for Programmers
+<br>
+    <a href = "https://learning.oreilly.com/library/view/python-machine-learning/9781789955750/">Python Machine Learning 3rd Edition
